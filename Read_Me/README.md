@@ -8,7 +8,7 @@
 3. Các Files trên đều chưa qua chỉnh sửa, mod, hack.
 4. Chúng Tôi Hoàn Toàn Tuân Thủ Theo Các Điều Khoản Của Đạo Luật Bản Quyền DMCA, Giấy Phép Sử Dụng (EULA), Luật Copyright Act Of Korea,... 
 # Hướng-Dẫn-Tải-Apk
-Đây là hướng dẫn tải Limbus-Company
+Đây là hướng dẫn tải APK
 ....Coming Soon.....
 # Lời Nói Cuối Cùng
 Bạn hoàn toàn có thể tự nguyện ủng hộ dự án bằng cách liên hệ với chủ dự án.
