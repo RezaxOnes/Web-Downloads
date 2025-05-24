@@ -18,13 +18,13 @@ Trình Biên Dịch MinRW Điều Khoản
 3. Các Files trên đều chưa qua chỉnh sửa, mod, hack.
 4. Chúng Tôi Hoàn Toàn Tuân Thủ Theo Các Điều Khoản Của Đạo Luật Bản Quyền DMCA, Giấy Phép Mã Nguồn Mở GNU GPL, Giấy Phép Sử Dụng (EULA), Luật Copyright Act Of Korea,...
 # Link trang chủ của các file APK trên
-Blue Archive: https://bluearchive.nexon.com/home
-Limbus Company: https://limbuscompany.com
-SAI: https://github.com/Aefyr/SAI
-Code::Block: https://www.codeblocks.org
-Trình Biên Dịch MinRW: https://www.mingw-w64.org
-F-Droid: https://f-droid.org
-Floating Clock VN: By Me
+1. Blue Archive: https://bluearchive.nexon.com/home
+2. Limbus Company: https://limbuscompany.com
+3. SAI: https://github.com/Aefyr/SAI
+4. Code::Block: https://www.codeblocks.org
+5. Trình Biên Dịch MinRW: https://www.mingw-w64.org
+6. F-Droid: https://f-droid.org
+7. Floating Clock VN: By Me
 # Hướng-Dẫn-Tải-Apk
 Đây là hướng dẫn tải APK
 ....Coming Soon.....
