@@ -32,4 +32,4 @@ Trình Biên Dịch MinRW Điều Khoản
 Bạn hoàn toàn có thể tự nguyện ủng hộ dự án bằng cách liên hệ với chủ dự án.
 Email: RezaxOneslimited@gmail.com
 # Lần cuối được cập nhập
-Thứ 7, Ngày 11 Tháng 5 Năm 2025 ( Lúc 3:22 "UTC + 7")
+Thứ 7, Ngày 24 Tháng 5 Năm 2025 ( Lúc 12: 00 "UTC + 7")
